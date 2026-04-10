@@ -1,0 +1,1 @@
+alert("Dont open this file is dangerous");
