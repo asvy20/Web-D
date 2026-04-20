@@ -1,0 +1,14 @@
+.myClass {
+    background-color: rgb(132, 132, 150); /* styles for the div with id "myDiv" */
+}
+.bgyellow {
+    background-color: yellow; /* styles for elements with class "bgyellow" */
+}
+#FirstDiv {
+    color: red;
+    /* styles for the div with id "FirstDiv" */
+}
+#SecondDiv {
+    color: blue;
+    /* styles for the div with id "SecondDiv" */
+}
